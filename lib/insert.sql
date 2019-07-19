@@ -19,6 +19,11 @@ INSERT INTO SubGenres (name) VALUES ("Wizardry");
 INSERT INTO SubGenres (name) VALUES ("Adventure");
 
 
+INSERT INTO Authors (name) VALUES ("J.K. Rowling");
+
+INSERT INTO Authors (name) VALUES ("J.R.R. Tolkien");
+
+
 INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Harry Potter", "I solemnly swear I am up to no good...", "human", 1, 1);
 
 INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Hermione Granger", "I hope you're pleased with yourselves. We could all have been killed — or worse, expelled...", "human", 1, 1);
@@ -34,11 +39,6 @@ INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Jon
 INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Arya Stark", "Nothing isn’t better or worse than anything. Nothing is just nothing.", "human", 2, 2);
 
 INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Joffrey Baratheon", "They say Stannis never smiles. I'll give him a Red smile, from ear to ear.", "human", 2, 2);
-
-
-INSERT INTO Authors (name) VALUES ("J.K. Rowling");
-
-INSERT INTO Authors (name) VALUES ("J.R.R. Tolkien");
 
 
 INSERT INTO character_books (character_id, book_id) VALUES (1, 1);
