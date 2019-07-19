@@ -21,7 +21,7 @@ INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Her
 
 INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Ron Weasley", "You're a little scary sometimes, you know that? Brilliant ... but scary...", "human", 1, 1);
 
-INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Albus Dumbledore", "Just gotta know how to calm 'em", "Half-Blood", 1, 1);
+INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Albus Dumbledore", "It matters not what someone is born, but what they grow to be.", "Half-Blood", 1, 1);
 
 INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Galadriel", "This is Nenya, the Ring of Adamant, and I am its keeper.", "elf", 2, 2);
 
