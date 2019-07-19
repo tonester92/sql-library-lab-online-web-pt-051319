@@ -8,7 +8,7 @@ INSERT INTO Books (title, year, series_id) VALUES ("Harry Potter and the Sorcere
 INSERT INTO Books (title, year, series_id) VALUES ("Harry Potter and the Chamber of Secrets", 1998, 1);
 
 INSERT INTO Books (title, year, series_id) VALUES ("Harry Potter and the Prisoner of Azkaban", 1999, 1);
-INSERT INTO Books (title, year, series_id) VALUES ("", 1954, 2);
+INSERT INTO Books (title, year, series_id) VALUES ("The Game of Thrones", 1, 2);
 
 INSERT INTO Books (title, year, series_id) VALUES ("Lord of the Rings: The Two Towers", 1954, 2);
 
