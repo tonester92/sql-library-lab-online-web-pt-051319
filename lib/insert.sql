@@ -19,7 +19,6 @@ INSERT INTO SubGenres (name) VALUES ("Wizardry");
 INSERT INTO SubGenres (name) VALUES ("Adventure");
 
 
-
 INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Harry Potter", "I solemnly swear I am up to no good...", "human", 1, 1);
 
 INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Hermione Granger", "I hope you're pleased with yourselves. We could all have been killed — or worse, expelled...", "human", 1, 1);
