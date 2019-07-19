@@ -21,7 +21,7 @@ INSERT INTO SubGenres (name) VALUES ("Adventure");
 
 INSERT INTO Authors (name) VALUES ("J.K. Rowling");
 
-INSERT INTO Authors (name) VALUES ("J.R.R. Tolkien");
+INSERT INTO Authors (name) VALUES ("George R. R. Martin");
 
 
 INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Harry Potter", "I solemnly swear I am up to no good...", "human", 1, 1);
