@@ -25,7 +25,7 @@ INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Alb
 
 INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Daenerys Targaryen", "I am a Khaleesi of the Dothraki! I am the wife of the great Khal and I carry his son inside me! The next time you raise a hand to me will be the last time you have hands.", "human", 2, 2);
 
-INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Jon Snow", "Do not think I won't kill you, dwarf! It would be my pleasure", "human", 2, 2);
+INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Jon Snow", "My father taught me big men fall just as quick as little ones if you put a sword through their hearts.", "human", 2, 2);
 
 INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Arya Stark", "I will take the Ring, though I do not know the way...", "human", 2, 2);
 
