@@ -29,6 +29,8 @@ INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("", 
 
 INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("", "I will take the Ring, though I do not know the way...", "hobbit", 2, 2);
 
+INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("", "I will take the Ring, though I do not know the way...", "hobbit", 2, 2);
+
 
 INSERT INTO SubGenres (name) VALUES ("Wizardry");
 
