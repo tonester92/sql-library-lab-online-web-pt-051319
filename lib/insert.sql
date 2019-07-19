@@ -12,7 +12,7 @@ INSERT INTO Books (title, year, series_id) VALUES ("A Game Of Thrones", 1996, 2)
 
 INSERT INTO Books (title, year, series_id) VALUES ("A Clash Of Kings", 1998, 2);
 
-INSERT INTO Books (title, year, series_id) VALUES ("A Storm Of Swords", 1, 2);
+INSERT INTO Books (title, year, series_id) VALUES ("A Storm Of Swords", 2000, 2);
 
 
 INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Galadriel", "This is Nenya, the Ring of Adamant, and I am its keeper.", "elf", 2, 2);
