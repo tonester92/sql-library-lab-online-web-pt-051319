@@ -27,7 +27,7 @@ INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Dae
 
 INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Jon Snow", "My father taught me big men fall just as quick as little ones if you put a sword through their hearts.", "human", 2, 2);
 
-INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Arya Stark", "I will take the Ring, though I do not know the way...", "human", 2, 2);
+INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Arya Stark", "Nothing isn’t better or worse than anything. Nothing is just nothing.", "human", 2, 2);
 
 INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Joffrey Baratheon", "I will take the Ring, though I do not know the way...", "hobbit", 2, 2);
 
