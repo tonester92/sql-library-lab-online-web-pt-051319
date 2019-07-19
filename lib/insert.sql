@@ -17,9 +17,9 @@ INSERT INTO Books (title, year, series_id) VALUES ("A Storm Of Swords", 2000, 2)
 
 INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Harry Potter", "Die Potter!", "human", 1, 1);
 
-INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Hermione Granger", "I hope you're pleased with yourselves. We could all have been killed — or worse, expelled...”, "human", 1, 1);
+INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Hermione Granger", "I hope you're pleased with yourselves. We could all have been killed — or worse, expelled...", "human", 1, 1);
 
-INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Ron Weasley", "I've got a bad feeling about this...", "human", 1, 1);
+INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Ron Weasley", "You're a little scary sometimes, you know that? Brilliant ... but scary...", "human", 1, 1);
 
 INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Rubeus Hagrid", "Just gotta know how to calm 'em", "half-giant", 1, 1);
 
