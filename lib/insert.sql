@@ -1,18 +1,18 @@
 INSERT INTO Series (title, author_id, subgenre_id) VALUES ("Harry Potter", 1, 1);
 
-INSERT INTO Series (title, author_id, subgenre_id) VALUES ("A", 2, 2);
+INSERT INTO Series (title, author_id, subgenre_id) VALUES ("A Game Of Thrones", 2, 2);
 
-INSERT INTO Books (title, year, series_id) VALUES ("Lord of the Rings: The Fellowship of the Ring", 1954, 2);
-
-INSERT INTO Books (title, year, series_id) VALUES ("Lord of the Rings: The Two Towers", 1954, 2);
-
-INSERT INTO Books (title, year, series_id) VALUES ("Lord of the Rings: The Return of the King", 1955, 2);
 
 INSERT INTO Books (title, year, series_id) VALUES ("Harry Potter and the Sorcerer's Stone", 1997, 1);
 
 INSERT INTO Books (title, year, series_id) VALUES ("Harry Potter and the Chamber of Secrets", 1998, 1);
 
 INSERT INTO Books (title, year, series_id) VALUES ("Harry Potter and the Prisoner of Azkaban", 1999, 1);
+INSERT INTO Books (title, year, series_id) VALUES ("", 1954, 2);
+
+INSERT INTO Books (title, year, series_id) VALUES ("Lord of the Rings: The Two Towers", 1954, 2);
+
+INSERT INTO Books (title, year, series_id) VALUES ("Lord of the Rings: The Return of the King", 1955, 2);
 
 
 INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Galadriel", "This is Nenya, the Ring of Adamant, and I am its keeper.", "elf", 2, 2);
