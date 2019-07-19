@@ -10,9 +10,9 @@ INSERT INTO Books (title, year, series_id) VALUES ("Harry Potter and the Chamber
 INSERT INTO Books (title, year, series_id) VALUES ("Harry Potter and the Prisoner of Azkaban", 1999, 1);
 INSERT INTO Books (title, year, series_id) VALUES ("A Game Of Thrones", 1996, 2);
 
-INSERT INTO Books (title, year, series_id) VALUES ("A Clash Of Kings", 19, 2);
+INSERT INTO Books (title, year, series_id) VALUES ("A Clash Of Kings", 1998, 2);
 
-INSERT INTO Books (title, year, series_id) VALUES ("Lord of the Rings: The Return of the King", 1955, 2);
+INSERT INTO Books (title, year, series_id) VALUES ("", 1955, 2);
 
 
 INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Galadriel", "This is Nenya, the Ring of Adamant, and I am its keeper.", "elf", 2, 2);
