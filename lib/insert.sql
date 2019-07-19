@@ -15,7 +15,7 @@ INSERT INTO Books (title, year, series_id) VALUES ("A Clash Of Kings", 1998, 2);
 INSERT INTO Books (title, year, series_id) VALUES ("A Storm Of Swords", 2000, 2);
 
 
-INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Hermione Granger", "You're going to get yourself killed...", "human", 1, 1);
+INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Hermione Granger", "I hope you're pleased with yourselves. We could all have been killed — or worse, expelled...”, "human", 1, 1);
 
 INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Ron Weasley", "I've got a bad feeling about this...", "human", 1, 1);
 
