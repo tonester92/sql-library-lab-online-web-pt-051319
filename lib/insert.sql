@@ -29,7 +29,7 @@ INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Jon
 
 INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Arya Stark", "Nothing isn’t better or worse than anything. Nothing is just nothing.", "human", 2, 2);
 
-INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Joffrey Baratheon", "They say Stannis never smiles. I'll give him a Red smile, from ear to ear.", "hobbit", 2, 2);
+INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Joffrey Baratheon", "They say Stannis never smiles. I'll give him a Red smile, from ear to ear.", "human", 2, 2);
 
 
 INSERT INTO SubGenres (name) VALUES ("Wizardry");
