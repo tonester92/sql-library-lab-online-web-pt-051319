@@ -14,6 +14,11 @@ INSERT INTO Books (title, year, series_id) VALUES ("A Clash Of Kings", 1998, 2);
 
 INSERT INTO Books (title, year, series_id) VALUES ("A Storm Of Swords", 2000, 2);
 
+INSERT INTO SubGenres (name) VALUES ("Wizardry");
+
+INSERT INTO SubGenres (name) VALUES ("");
+
+
 
 INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Harry Potter", "I solemnly swear I am up to no good...", "human", 1, 1);
 
@@ -31,10 +36,6 @@ INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Ary
 
 INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Joffrey Baratheon", "They say Stannis never smiles. I'll give him a Red smile, from ear to ear.", "human", 2, 2);
 
-
-INSERT INTO SubGenres (name) VALUES ("Wizardry");
-
-INSERT INTO SubGenres (name) VALUES ("Medieval Lore");
 
 INSERT INTO Authors (name) VALUES ("J.K. Rowling");
 
