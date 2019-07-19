@@ -14,6 +14,7 @@ INSERT INTO Books (title, year, series_id) VALUES ("A Clash Of Kings", 1998, 2);
 
 INSERT INTO Books (title, year, series_id) VALUES ("A Storm Of Swords", 2000, 2);
 
+
 INSERT INTO SubGenres (name) VALUES ("Wizardry");
 
 INSERT INTO SubGenres (name) VALUES ("Adventure");
