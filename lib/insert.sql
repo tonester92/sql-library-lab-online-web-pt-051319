@@ -25,11 +25,9 @@ INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Alb
 
 INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("", "This is Nenya, the Ring of Adamant, and I am its keeper.", "elf", 2, 2);
 
-INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Legolas", "Do not think I won't kill you, dwarf! It would be my pleasure", "elf", 2, 2);
+INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("", "Do not think I won't kill you, dwarf! It would be my pleasure", "elf", 2, 2);
 
-INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Frodo Baggins", "I will take the Ring, though I do not know the way...", "hobbit", 2, 2);
-
-INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("Harry Potter", "Expeliamus!", "human", 1, 1);
+INSERT INTO Characters (name, motto, species, author_id, series_id) VALUES ("", "I will take the Ring, though I do not know the way...", "hobbit", 2, 2);
 
 
 INSERT INTO SubGenres (name) VALUES ("Wizardry");
